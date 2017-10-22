@@ -1,0 +1,10 @@
+server:
+  port: 8080
+#  context-path:
+#  配置信息可以通过value注解将配置注入到需要的地方
+application:
+  version: 2.0
+  author: cody
+propertyEntity:
+  version: 2.0
+  author: mashikun
